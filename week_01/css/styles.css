@@ -18,12 +18,15 @@ p {
   display: block;
 }
 .background-decoration {
-  background-color: brown;
+  background-color: rgb(103, 34, 34);
   border-radius: 10px;
   padding: 20px;
   color: white;
 }
 
+h2 {
+  
+}
 .image-wrapper {
   position: absolute;
   right: 20px;
@@ -34,11 +37,12 @@ p {
   height: 250px;
   background-size: contain;
   border-radius: 20px;
+  box-shadow: 5px 8px 15px black;
 }
 
 .body {
   position: relative;
-  padding: 30px;
+  padding: 15px;
   box-sizing: border-box;
 }
 
